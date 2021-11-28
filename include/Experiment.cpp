@@ -1,8 +1,6 @@
 // Copyright 2021 Danila Vasilyev
 
-
 #include "Experiment.h"
-
 #include <random>
 #include <sstream>
 
