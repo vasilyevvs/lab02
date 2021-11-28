@@ -1,4 +1,5 @@
 // Copyright (c) 2021. Vasilyev Danila
+
 #include "Investigation.h"
 #include "Experiment.h"
 int main() {

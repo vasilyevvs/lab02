@@ -1,5 +1,6 @@
 // Copyright 2021 Danila Vasilyev
 #include <header.hpp>
+
 std::string sizeConvertor(int64_t value)
 {
   if (value <= 1024)

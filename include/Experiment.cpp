@@ -79,4 +79,3 @@ void Experiment::print(std::ostream& os) {
   << time << " ms\n";
 }
 
-
