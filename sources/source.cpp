@@ -1,4 +1,4 @@
-// Copyright 2020 Danila Vasilyev
+// Copyright 2021 Danila Vasilyev
 
 #include <header.hpp>
 std::string sizeConvertor(int64_t value)

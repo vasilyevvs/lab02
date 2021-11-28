@@ -20,3 +20,4 @@ void Investigation::print(std::ostream& os) {
     experiment.print(os);
   }
 }
+
