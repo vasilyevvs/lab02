@@ -78,4 +78,3 @@ void Experiment::print(std::ostream& os) {
   << "\t\tresults:\n\t\t\tduration: "
   << time << " ms\n";
 }
-
